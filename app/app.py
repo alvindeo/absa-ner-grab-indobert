@@ -239,7 +239,7 @@ def load_models():
     try:
         tok_absa  = AutoTokenizer.from_pretrained("AlvinDeo/indobert-absa-grab")
         mod_absa  = AutoModelForSequenceClassification.from_pretrained("AlvinDeo/indobert-absa-grab")
-        tok_ner   = AutoTokenizer.from_pretrained("AlvinDeo/indobert-ner-grab", use_fast=True)
+        tok_ner   = AutoTokenizer.from_pretrained("AlvinDeo/indobert-ner-grab")
         mod_ner   = AutoModelForTokenClassification.from_pretrained("AlvinDeo/indobert-ner-grab")
         mod_absa.eval()
         mod_ner.eval()
