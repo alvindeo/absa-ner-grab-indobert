@@ -1,0 +1,8 @@
+models/
+__pycache__/
+*.joblib
+.ipynb_checkpoints/
+logs_absa/
+logs_ner/
+results_absa/
+results_ner/
