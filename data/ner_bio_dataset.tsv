@@ -1,3 +1,183 @@
+bintang	O
+dulu	O
+jadi	O
+tanya	O
+aplikasi	B-ASPECT
+pas	O
+baru	O
+mau	O
+download	O
+tulis	O
+aplikasi	B-ASPECT
+rupa	O
+mungkin	O
+tidak	O
+fungsi	O
+perangkat	O
+mohon	O
+cek	O
+yah	O
+
+grab	O
+knp	O
+jahat	O
+sama	O
+cewe	O
+aku	O
+jangan	O
+lah	O
+kayak	O
+gitu	O
+
+babi	O
+aplikasi	B-ASPECT
+grab	B-ORG
+merchant	O
+mu	O
+susah	O
+dipake	O
+
+bagus	O
+aplikasi	B-ASPECT
+bantu	O
+semua	O
+orng	O
+
+kemudi	O
+apk	O
+sering	O
+tidak	O
+gerak	O
+tidak	O
+respon	O
+dichat	O
+
+nice	O
+
+mantabbbb	O
+
+bagus	O
+
+overall	O
+bagus	O
+cuman	O
+kalau	O
+daerah	O
+pinggir	O
+suka	O
+nge	O
+lag	O
+apknya	O
+
+sgt	O
+cepat	O
+antar	O
+sukses	O
+selalu	O
+grab	O
+
+awal	O
+bakal	O
+menit	O
+lama	O
+lama	O
+jadi	O
+menit	O
+tanya	O
+tidak	O
+jawab	O
+jawab	O
+ngeselin	O
+tau	O
+
+tetbaik	O
+
+guna	O
+antar	O
+jemput	O
+online	O
+
+masa	O
+aku	O
+sen	O
+gojek	O
+mapsnya	O
+tidak	O
+liat	O
+antara	O
+
+grab	B-ORG
+tipu	O
+driver	B-ASPECT
+presiden	O
+ri	O
+harus	O
+bagi	O
+driver	B-ASPECT
+hitung	O
+tarif	O
+dasar	O
+minimum	O
+pernah	O
+tetap	O
+perintah	O
+rp	O
+jadi	O
+order	O
+jarak	O
+minimum	O
+km	O
+bawah	O
+nominal	O
+bagi	O
+driver	B-ASPECT
+rp	O
+rp	O
+bukan	O
+rp	O
+sekarang	O
+arti	O
+kali	O
+potong	O
+potong	O
+rp	O
+potong	O
+rp	O
+per	O
+order	O
+potong	O
+order	O
+hemat	O
+reaksi	O
+keras	O
+driver	B-ASPECT
+perintah	O
+
+bagus	O
+tidak	O
+usah	O
+cape	O
+pergi	O
+tempat	O
+makan	O
+langsung	O
+grab	B-ORG
+aja	O
+
+mantap	O
+
+okay	O
+
+pelit	O
+promo	O
+banget	O
+beda	O
+belah	O
+
+bagus	O
+
+mntap	O
+
 aplikasi	B-ASPECT
 banyak	O
 bantu	O
@@ -13,7 +193,7 @@ jalan	O
 solusi	O
 baik	O
 
-aplikasi	O
+aplikasi	B-ASPECT
 guna	O
 banget	O
 kalau	O
@@ -293,7 +473,7 @@ potong	O
 gede	O
 driver	B-ASPECT
 kecil	O
-driver	O
+driver	B-ASPECT
 cuma	O
 dpt	O
 potong	O
@@ -1270,7 +1450,7 @@ terus	O
 baik	O
 
 suka	O
-aplikasi	O
+aplikasi	B-ASPECT
 pesan	O
 apa	O
 
@@ -1301,7 +1481,7 @@ hari	O
 pukul	O
 k	O
 atas	O
-driver	O
+driver	B-ASPECT
 mesti	O
 banyak	O
 alas	O
@@ -1310,7 +1490,7 @@ titik	O
 jemput	O
 terlalu	O
 jauh	O
-driver	O
+driver	B-ASPECT
 byak	O
 berat	O
 minta	O
@@ -1666,7 +1846,7 @@ akurat	O
 customer	O
 kena	O
 masalah	O
-driver	O
+driver	B-ASPECT
 tidak	O
 mau	O
 kasih	O
@@ -1980,7 +2160,7 @@ baik	O
 
 mantap	O
 
-layan	B-ASPECT
+layan	O
 baik	O
 
 baik	O
@@ -2371,7 +2551,7 @@ barang	O
 semua	O
 praktis	O
 satu	O
-aplikasi	O
+aplikasi	B-ASPECT
 driver	B-ASPECT
 aku	O
 temu	O
@@ -2621,7 +2801,7 @@ ngotak	O
 harga	B-ASPECT
 
 pesan	O
-grabfood	B-PROD
+grabfood	O
 tidak	O
 cek	O
 pesan	O
@@ -2704,7 +2884,7 @@ order	O
 suka	O
 dibatalin	O
 sama	O
-driver	B-ASPECT
+driver	O
 knapa	O
 karna	O
 murah	O
@@ -2736,7 +2916,7 @@ banget	O
 oke	O
 lah	O
 
-grab	O
+grab	B-ORG
 aplikasi	B-ASPECT
 serba	O
 asal	O
@@ -2999,7 +3179,7 @@ turunin	O
 sekarang	O
 kalau	O
 buka	O
-aplikasi	B-ASPECT
+aplikasi	O
 loading	O
 lama	O
 bener	O
@@ -3171,7 +3351,7 @@ aplikasi	B-ASPECT
 belah	O
 
 guna	O
-grab	B-ORG
+grab	O
 cukup	O
 lama	O
 sangat	O
@@ -3895,7 +4075,7 @@ gmail	O
 sangat	O
 lambat	O
 
-aman	B-ASPECT
+aman	O
 
 terlalu	O
 sering	O
@@ -3909,7 +4089,7 @@ bintang	O
 
 kecewa	O
 berat	O
-grab	B-ORG
+grab	O
 hemat	O
 layan	B-ASPECT
 buruk	O
@@ -4112,7 +4292,7 @@ kalau	O
 misal	O
 komplain	O
 pihak	O
-grab	O
+grab	B-ORG
 respon	O
 baik	O
 sekarang	O
@@ -4170,7 +4350,7 @@ profesional	O
 
 otw	O
 hapus	O
-aplikasi	B-ASPECT
+aplikasi	O
 aplikasi	B-ASPECT
 bener	O
 pesan	O
@@ -4230,7 +4410,7 @@ dobel	O
 order	O
 lama	O
 nunggunya	O
-driver	O
+driver	B-ASPECT
 kena	O
 macet	O
 banyak	O
@@ -4392,7 +4572,7 @@ tengah	O
 buat	O
 dompet	O
 tinggal	O
-grab	O
+grab	B-ORG
 driver	B-ASPECT
 tidak	O
 mau	O
@@ -4723,7 +4903,7 @@ sesuai	O
 sama	O
 ada	O
 titik	O
-driver	B-ASPECT
+driver	O
 lenceng	O
 jauh	O
 utama	O
@@ -4821,7 +5001,7 @@ masa	O
 cancle	O
 terus	O
 sama	O
-driver	B-ASPECT
+driver	O
 
 kirim	O
 sesuai	O
@@ -4877,7 +5057,7 @@ baik	O
 sistem	O
 kl	O
 driver	B-ASPECT
-grab	B-ORG
+grab	O
 food	O
 belum	O
 benar	O
@@ -5160,8 +5340,8 @@ mantap	O
 sangat	O
 bagus	O
 
-driver	B-ASPECT
-grab	O
+driver	O
+grab	B-ORG
 sangat	O
 kecewa	O
 mesan	O
@@ -5520,7 +5700,7 @@ fast	O
 respon	O
 goods	O
 
-driver	O
+driver	B-ASPECT
 ramah	O
 sopan	O
 santun	O
@@ -6224,7 +6404,7 @@ grab	B-ORG
 car	O
 sangat	O
 sayang	O
-aplikasi	O
+aplikasi	B-ASPECT
 grab	B-ORG
 selalu	O
 muncul	O
@@ -6265,7 +6445,7 @@ agresif	O
 paksa	O
 user	O
 buka	O
-grab	O
+grab	B-ORG
 iklan	O
 sebut	O
 bukan	O
@@ -6430,7 +6610,7 @@ jam	O
 cuma	O
 buat	O
 dapet	O
-driver	O
+driver	B-ASPECT
 padahal	O
 kalau	O
 opsi	O
@@ -6982,11 +7162,11 @@ dulu	O
 pernah	O
 setia	O
 guna	O
-aplikasi	O
+aplikasi	B-ASPECT
 kecewa	O
 hapus	O
 cukup	O
-aplikasi	O
+aplikasi	B-ASPECT
 go	O
 car	O
 
@@ -7052,7 +7232,7 @@ oke	O
 
 bagus	O
 
-grab	B-ORG
+grab	O
 provides	O
 reliable	O
 transportation	O
@@ -7162,7 +7342,7 @@ sekali	O
 
 terima	O
 kasih	O
-grab	B-ORG
+grab	O
 mudah	O
 rumah	O
 masuk	O
@@ -7336,7 +7516,7 @@ buat	O
 apk	O
 fake	O
 gps	O
-driver	B-ASPECT
+driver	O
 curang	O
 karna	O
 pakai	O
@@ -7499,7 +7679,7 @@ terima	O
 kasih	O
 
 entahlahh	O
-grab	B-ORG
+grab	O
 slalu	O
 nyaman	O
 ramah	O
@@ -7769,7 +7949,7 @@ bagus	O
 pokok	O
 mantaplh	O
 pke	O
-grab	O
+grab	B-ORG
 tolong	O
 bget	O
 
@@ -7837,7 +8017,7 @@ dunia	O
 sering	O
 lelet	O
 skrg	O
-aplikasi	O
+aplikasi	B-ASPECT
 
 baik	O
 jalan	O
@@ -7846,7 +8026,7 @@ tidak	O
 ngebut	O
 
 cepat	O
-layan	B-ASPECT
+layan	O
 
 layan	B-ASPECT
 bagus	O
@@ -7894,7 +8074,7 @@ kalau	O
 mau	O
 kirim	O
 paket	O
-driver	B-ASPECT
+driver	O
 sopan	O
 helm	O
 bersih	O
@@ -8010,7 +8190,7 @@ sekali	O
 sangat	O
 bantu	O
 
-grab	O
+grab	B-ORG
 klu	O
 ngebatalin	O
 jalan	O
@@ -8414,7 +8594,7 @@ aplikasi	B-ASPECT
 lancar	O
 mau	O
 order	O
-grab	B-ORG
+grab	O
 muncul	O
 notofikasi	O
 cek	O
@@ -8676,7 +8856,7 @@ buruk	O
 paksa	O
 pakai	O
 map	O
-grab	B-ORG
+grab	O
 padahal	O
 map	O
 jauh	O
@@ -8848,7 +9028,7 @@ sopan	O
 kali	O
 order	O
 mengahadapi	O
-driver	O
+driver	B-ASPECT
 arogan	O
 gni	O
 uninstal	O
@@ -8870,7 +9050,7 @@ driver	B-ASPECT
 baik	O
 jelas	O
 
-aplikasi	B-ASPECT
+aplikasi	O
 bagus	O
 kadang	O
 waktu	O
@@ -8901,7 +9081,7 @@ satu	O
 aplikasi	B-ASPECT
 lengkap	O
 nyaman	O
-aman	O
+aman	B-ASPECT
 buat	O
 ken	O
 pergi	O
@@ -9184,7 +9364,7 @@ media	O
 sosial	O
 
 entah	O
-grab	O
+grab	B-ORG
 mobil	O
 kalau	O
 hujan	O
@@ -9476,7 +9656,7 @@ ramah	O
 sopan	O
 
 sen	O
-grab	O
+grab	B-ORG
 car	O
 tidak	O
 cancel	O
@@ -9527,7 +9707,7 @@ driver	B-ASPECT
 aja	O
 abistu	O
 baru	O
-aplikasi	B-ASPECT
+aplikasi	O
 ngasih	O
 pemberitahuan	O
 kalau	O
@@ -9843,7 +10023,7 @@ lama	O
 langsung	O
 dapet	O
 abang	O
-driver	B-ASPECT
+driver	O
 ramah	O
 ramah	O
 amanah	O
@@ -10509,7 +10689,7 @@ jalan	O
 cepat	O
 amanah	O
 
-driver	B-ASPECT
+driver	O
 ramah	O
 
 betul	O
@@ -10520,7 +10700,7 @@ antara	O
 aplikasi	B-ASPECT
 ojol	O
 si	O
-grab	O
+grab	B-ORG
 notifnya	O
 paling	O
 ngeselin	O
@@ -10592,7 +10772,7 @@ for	O
 daily	O
 use	O
 
-aplikasi	O
+aplikasi	B-ASPECT
 nyaa	O
 sangat	O
 bagus	O
@@ -10700,7 +10880,7 @@ sekali	O
 jadi	O
 mitra	O
 driver	B-ASPECT
-grab	B-ORG
+grab	O
 kota	O
 malang	O
 tidak	O
@@ -10826,7 +11006,7 @@ praktis	O
 transportasi	O
 sen	O
 makan	O
-layan	B-ASPECT
+layan	O
 cepat	O
 gampang	O
 dipake	O
@@ -10843,7 +11023,7 @@ sering	O
 laku	O
 leceh	O
 pokok	O
-driver	B-ASPECT
+driver	O
 driver	B-ASPECT
 orang	O
 aja	O
@@ -11097,7 +11277,7 @@ bike	O
 grab	B-ORG
 car	O
 pesan	O
-grab	B-ORG
+grab	O
 food	O
 tidak	O
 yaaaa	O
@@ -11174,7 +11354,7 @@ tidak	O
 sesuai	O
 tambah	O
 biaya	O
-layan	B-ASPECT
+layan	O
 besar	O
 sekali	O
 rb	O
@@ -11323,7 +11503,7 @@ bukan	O
 masalah	O
 jumlah	O
 nominal	O
-driver	B-ASPECT
+driver	O
 td	O
 kembali	O
 kembali	O
@@ -11355,7 +11535,7 @@ mantap	O
 bagus	O
 
 apk	O
-grab	O
+grab	B-ORG
 lama	O
 lama	O
 ngeselin	O
@@ -11370,7 +11550,7 @@ lebih	O
 ekonomis	O
 selamat	O
 tinggal	O
-grab	B-ORG
+grab	O
 tidak	O
 mao	O
 gw	O
@@ -11554,7 +11734,7 @@ baik	O
 sangat	O
 nyaman	O
 
-driver	B-ASPECT
+driver	O
 ramah	O
 
 tidak	O
@@ -11625,7 +11805,7 @@ nice	O
 
 wonderfull	O
 
-driver	B-ASPECT
+driver	O
 ramah	O
 sopan	O
 sangat	O
@@ -12136,7 +12316,7 @@ cepat	O
 biasa	O
 driver	B-ASPECT
 responsif	O
-harga	B-ASPECT
+harga	O
 pilih	O
 sesuai	O
 butuh	O
@@ -12177,7 +12357,7 @@ biaya	O
 benernya	O
 rb	O
 tiba	O
-driver	O
+driver	B-ASPECT
 nambahin	O
 biaya	O
 rb	O
@@ -12200,7 +12380,7 @@ tidak	O
 lebih	O
 km	O
 harus	O
-grab	B-ORG
+grab	O
 lacak	O
 jalan	O
 ngelewatin	O
@@ -12730,7 +12910,7 @@ baik	O
 
 bagus	O
 
-aplikasi	O
+aplikasi	B-ASPECT
 lelet	O
 
 klou	O
@@ -13024,7 +13204,7 @@ bukan	O
 sekarang	O
 mau	O
 pesan	O
-grabcar	O
+grabcar	B-PROD
 pesan	O
 dulu	O
 tidak	O
@@ -14547,7 +14727,7 @@ asik	O
 
 bagus	O
 
-aplikasi	O
+aplikasi	B-ASPECT
 henti	O
 hp	O
 
@@ -14587,7 +14767,7 @@ boikot	O
 tidak	O
 masuk	O
 akal	O
-harga	B-ASPECT
+harga	O
 antar	O
 lebih	O
 mahal	O
@@ -14879,7 +15059,7 @@ ngebantuh	O
 butuh	O
 
 nunggu	O
-driver	O
+driver	B-ASPECT
 grabcar	B-PROD
 malah	O
 dicancel	O
@@ -14894,7 +15074,7 @@ jalan	O
 nyaman	O
 
 usak	O
-harga	O
+harga	B-ASPECT
 pasar	O
 ekonomi	O
 rakyat	O
@@ -15043,7 +15223,7 @@ good	O
 
 aplikasi	B-ASPECT
 mantep	O
-driver	B-ASPECT
+driver	O
 cepet	O
 xixixi	O
 
@@ -15186,7 +15366,7 @@ apa	O
 apain	O
 
 driver	B-ASPECT
-grab	B-ORG
+grab	O
 plat	O
 b	O
 pma	O
@@ -15353,7 +15533,7 @@ login	O
 biasa	O
 buat	O
 sen	O
-grab	B-ORG
+grab	O
 car	O
 tiba	O
 tiba	O
@@ -15536,7 +15716,7 @@ masalah	O
 iklan	O
 iklan	O
 mana	O
-aplikasi	O
+aplikasi	B-ASPECT
 banyak	O
 sekali	O
 walaupun	O
@@ -15585,7 +15765,7 @@ gojek	B-ORG
 apkk	O
 tolol	O
 
-harga	B-ASPECT
+harga	O
 makan	O
 mahal	O
 
@@ -15632,7 +15812,7 @@ jelek	O
 muda	O
 akses	O
 
-aplikasi	B-ASPECT
+aplikasi	O
 bagus	O
 mudah	O
 
@@ -15927,7 +16107,7 @@ grab	B-ORG
 jongos	O
 aduh	O
 
-grab	O
+grab	B-ORG
 makin	O
 kesini	O
 makin	O
@@ -15973,7 +16153,7 @@ dih	O
 aplikasi	B-ASPECT
 jelek	O
 
-aplikasi	O
+aplikasi	B-ASPECT
 jelek	O
 inti	O
 singapura	O
@@ -16098,7 +16278,7 @@ it	O
 
 aplikasi	B-ASPECT
 buruk	O
-driver	B-ASPECT
+driver	O
 lelet	O
 tunggu	O
 jam	O
@@ -16392,7 +16572,7 @@ sistem	O
 batal	O
 tidak	O
 pdhl	O
-driver	O
+driver	B-ASPECT
 yng	O
 tidak	O
 mau	O
@@ -16490,14 +16670,14 @@ banget	O
 pak	O
 supirnya	O
 
-grab	B-ORG
+grab	O
 kurang	O
 senang	O
 aku	O
 mesan	O
 driver	B-ASPECT
 supir	O
-driver	O
+driver	B-ASPECT
 tolak	O
 sombong	O
 jarak	O
@@ -16584,7 +16764,7 @@ anak	O
 bangsa	O
 terimakasih	O
 atas	O
-layan	B-ASPECT
+layan	O
 
 very	O
 bad	O
@@ -16689,7 +16869,7 @@ gasuka	O
 
 boikot	O
 
-aplikasi	B-ASPECT
+aplikasi	O
 lengkap	O
 butuh	O
 keluarga	O
@@ -16893,7 +17073,7 @@ grab	B-ORG
 kalau	O
 cepat	O
 cari	O
-driver	B-ASPECT
+driver	O
 utama	O
 motor	O
 
@@ -17082,7 +17262,7 @@ cek	O
 dlu	O
 kursi	O
 kursi	O
-harga	O
+harga	B-ASPECT
 lebih	O
 mahal	O
 kursi	O
@@ -17533,7 +17713,7 @@ offline	O
 alasanya	O
 tidak	O
 potong	O
-aplikasi	B-ASPECT
+aplikasi	O
 
 sellsingapore	O
 cuihhh	O
@@ -17562,7 +17742,7 @@ muter	O
 
 jelek	O
 layan	B-ASPECT
-harga	B-ASPECT
+harga	O
 mahal	O
 
 mantap	O
@@ -17717,7 +17897,7 @@ buat	O
 bukti	O
 kirim	O
 cek	O
-driver	O
+driver	B-ASPECT
 apk	O
 perempuan	O
 asli	O
@@ -17780,7 +17960,7 @@ korup	O
 jelek	O
 banget	O
 
-layan	B-ASPECT
+layan	O
 lambat	O
 masalah	O
 malah	O
@@ -17906,13 +18086,13 @@ entahla	O
 jelek	O
 aja	O
 mnding	O
-gojek	B-ORG
+gojek	O
 maxim	B-ORG
 
 apk	O
 tolol	O
 
-aplikasi	B-ASPECT
+aplikasi	O
 jelek	O
 banget	O
 
@@ -17977,8 +18157,8 @@ saran	O
 aja	O
 kalau	O
 potong	O
-aplikasi	B-ASPECT
-driver	B-ASPECT
+aplikasi	O
+driver	O
 jangan	O
 terlalu	O
 banyak	O
@@ -18002,7 +18182,7 @@ makan	O
 
 buruk	O
 sekali	O
-layan	B-ASPECT
+layan	O
 grab	B-ORG
 
 produk	O
@@ -18270,7 +18450,7 @@ jelek	O
 
 pernah	O
 download	O
-aplikasi	O
+aplikasi	B-ASPECT
 grab	B-ORG
 nyata	O
 mahal	O
@@ -18281,7 +18461,7 @@ gw	O
 uninstall	O
 pokokny	O
 nih	O
-aplikasi	O
+aplikasi	B-ASPECT
 jelek	O
 trs	O
 layan	B-ASPECT
@@ -18296,7 +18476,7 @@ lot	O
 
 apknya	O
 jelek	O
-layan	B-ASPECT
+layan	O
 kurang	O
 
 sell	O
@@ -18415,7 +18595,7 @@ kota	O
 bengkulu	O
 etika	O
 kendara	O
-grab	O
+grab	B-ORG
 beri	O
 latih	O
 biar	O
@@ -18514,7 +18694,7 @@ semua	O
 apa	O
 lg	O
 pesan	O
-grab	B-ORG
+grab	O
 tidak	O
 ad	O
 diskon	O
@@ -18552,7 +18732,7 @@ bnyak	O
 promonyaaa	O
 baik	O
 si	O
-grab	O
+grab	B-ORG
 ini	O
 
 makin	O
@@ -18585,7 +18765,7 @@ sedikit	O
 masuk	O
 beri	O
 himbauan	O
-driver	B-ASPECT
+driver	O
 maupun	O
 personality	O
 kerja	O
@@ -18706,7 +18886,7 @@ grab	B-ORG
 tau	O
 kalian	O
 ken	O
-layan	O
+layan	B-ASPECT
 aman	B-ASPECT
 nyaman	O
 dapat	O
@@ -18732,7 +18912,7 @@ kena	O
 putus	O
 mitra	O
 
-harga	B-ASPECT
+harga	O
 diri	O
 bangsa	O
 kalian	O
@@ -18814,7 +18994,7 @@ charge	O
 gantung	O
 lokasi	O
 
-aplikasi	O
+aplikasi	B-ASPECT
 sangat	O
 bantu	O
 aktivitas	O
@@ -19034,7 +19214,7 @@ dibatalin	O
 
 bagus	O
 
-aplikasi	O
+aplikasi	B-ASPECT
 bagus	O
 senang	O
 sekali	O
@@ -19195,7 +19375,7 @@ pesan	O
 aja	O
 kurang	O
 nunggu	O
-driver	O
+driver	B-ASPECT
 jam	O
 cancel	O
 susah	O
@@ -19308,7 +19488,7 @@ single	O
 time	O
 so	O
 the	O
-driver	O
+driver	B-ASPECT
 doesn	O
 t	O
 get	O
@@ -19398,7 +19578,7 @@ ovo	O
 cash	O
 dulu	O
 ribet	O
-aman	O
+aman	B-ASPECT
 customer	O
 tingkat	O
 sekarang	O
@@ -19546,7 +19726,7 @@ tidak	O
 skrg	O
 jadi	O
 banyak	O
-driver	B-ASPECT
+driver	O
 nakal	O
 
 sangat	O
@@ -20053,7 +20233,7 @@ nahh	O
 status	O
 bayar	O
 hasil	O
-aplikasi	O
+aplikasi	B-ASPECT
 grab	B-ORG
 abang	O
 bayar	O
@@ -20064,7 +20244,7 @@ coba	O
 bayar	O
 lagih	O
 qr	O
-aplikasi	B-ASPECT
+aplikasi	O
 abang	O
 qr	O
 tidak	O
@@ -20593,14 +20773,14 @@ tajam	O
 tata	O
 letak	O
 ikon	O
-layan	B-ASPECT
+layan	O
 beranda	O
 bagus	O
 makan	O
 motor	O
 logo	O
 bagus	O
-layan	B-ASPECT
+layan	O
 pencet	O
 atas	O
 pojok	O
@@ -20767,7 +20947,7 @@ kecewa	O
 banget	O
 sama	O
 apk	O
-grab	O
+grab	B-ORG
 pesan	O
 kurir	O
 tungguin	O
@@ -20929,7 +21109,7 @@ dasar	O
 sangat	O
 baik	O
 
-grab	B-ORG
+grab	O
 sekarang	O
 promonya	O
 sedikittttttt	O
@@ -21203,7 +21383,7 @@ mesen	O
 kali	O
 kan	O
 
-driver	O
+driver	B-ASPECT
 ramah	O
 
 ramah	O
@@ -21462,7 +21642,7 @@ harga	B-ASPECT
 asli	O
 dong	O
 buat	O
-grab	B-ORG
+grab	O
 segera	O
 baik	O
 
@@ -21638,7 +21818,7 @@ kilo	O
 sangat	O
 puas	O
 
-driver	O
+driver	B-ASPECT
 bagus	O
 ramah	O
 
@@ -21677,7 +21857,7 @@ is	O
 the	O
 best	O
 
-grab	B-ORG
+grab	O
 sekarang	O
 aneh	O
 driver	B-ASPECT
@@ -21892,7 +22072,7 @@ drpd	O
 sblah	O
 
 kemudi	O
-grab	B-ORG
+grab	O
 ramah	O
 oke	O
 segi	O
@@ -22064,7 +22244,7 @@ manteb	O
 
 bagus	O
 
-layan	O
+layan	B-ASPECT
 ramah	O
 baik	O
 
@@ -22101,7 +22281,7 @@ ny	O
 
 baik	O
 
-layan	B-ASPECT
+layan	O
 mantab	O
 
 sya	O
@@ -22124,7 +22304,7 @@ cuman	O
 pas	O
 mau	O
 buka	O
-aplikasi	O
+aplikasi	B-ASPECT
 sangat	O
 lama	O
 ngebug	O
@@ -22558,7 +22738,7 @@ hujan	O
 susah	O
 banget	O
 cari	O
-driver	O
+driver	B-ASPECT
 titik	O
 lokasi	O
 selalu	O
@@ -22643,7 +22823,7 @@ grab	B-ORG
 mudah	O
 segalax	O
 
-aplikasi	O
+aplikasi	B-ASPECT
 paling	O
 top	O
 
@@ -23149,7 +23329,7 @@ besar	O
 cara	O
 korban	O
 mitra	O
-driver	B-ASPECT
+driver	O
 order	O
 kasih	O
 biar	O
@@ -23271,7 +23451,7 @@ jasa	O
 
 oklah	O
 
-aplikasi	B-ASPECT
+aplikasi	O
 jadi	O
 lot	O
 sih	O
@@ -23474,7 +23654,7 @@ lama	O
 guna	O
 grab	B-ORG
 
-driver	B-ASPECT
+driver	O
 suka	O
 naik	O
 harga	B-ASPECT
@@ -23649,7 +23829,7 @@ santun	O
 ramah	O
 baik	O
 pokok	O
-grab	O
+grab	B-ORG
 motor	O
 
 baik	O
@@ -23742,7 +23922,7 @@ tiba	O
 ada	O
 komunikasi	O
 
-aplikasi	O
+aplikasi	B-ASPECT
 tidak	O
 pernah	O
 kecewa	O
@@ -23755,7 +23935,7 @@ semua	O
 
 bantu	O
 
-driver	B-ASPECT
+driver	O
 ramah	O
 sopan	O
 kendara	O
@@ -23933,7 +24113,7 @@ sangat	O
 ramah	O
 asik	O
 tidak	O
-grab	O
+grab	B-ORG
 pernah	O
 naikin	O
 sangat	O
@@ -24112,7 +24292,7 @@ dapet	O
 ramah	O
 baik	O
 
-layan	O
+layan	B-ASPECT
 sangat	O
 ramah	O
 mudah	O
@@ -24128,7 +24308,7 @@ jelas	O
 tiba	O
 tiba	O
 keluar	O
-aplikasi	O
+aplikasi	B-ASPECT
 
 sangat	O
 bantu	O
@@ -24158,7 +24338,7 @@ halo	O
 tim	O
 grab	B-ORG
 pesan	O
-grab	O
+grab	B-ORG
 motor	O
 grabcar	B-PROD
 jadi	O
@@ -24246,7 +24426,7 @@ bagus	O
 bagus	O
 layan	B-ASPECT
 
-driver	O
+driver	B-ASPECT
 komunikatif	O
 
 sangat	O
@@ -24467,7 +24647,7 @@ kurang	O
 canggih	O
 tidak	O
 kyk	O
-gojek	O
+gojek	B-ORG
 lbh	O
 pintar	O
 maaf	O
@@ -24519,7 +24699,7 @@ waktu	O
 sopan	O
 
 bagus	O
-layan	O
+layan	B-ASPECT
 
 kereeen	O
 
@@ -24755,7 +24935,7 @@ k	O
 
 kadang	O
 dpt	O
-driver	B-ASPECT
+driver	O
 lama	O
 lebih	O
 jam	O
@@ -24889,7 +25069,7 @@ alamat	O
 
 bagus	O
 
-aplikasi	O
+aplikasi	B-ASPECT
 memang	O
 mudah	O
 laku	O
@@ -25064,7 +25244,7 @@ guna	O
 padahal	O
 udah	O
 langgan	O
-grab	B-ORG
+grab	O
 unlimited	O
 dong	O
 baik	O
@@ -25374,7 +25554,7 @@ awal	O
 pake	O
 masuk	O
 akal	O
-harga	O
+harga	B-ASPECT
 semua	O
 
 baik	O
@@ -25495,7 +25675,7 @@ tidak	O
 detect	O
 help	O
 center	O
-grab	O
+grab	B-ORG
 gimana	O
 
 trimaksih	O
@@ -25599,7 +25779,7 @@ goof	O
 
 terima	O
 kasih	O
-aplikasi	B-ASPECT
+aplikasi	O
 sangat	O
 bantu	O
 sekali	O
@@ -25673,7 +25853,7 @@ tunggu	O
 baik	O
 
 kocak	O
-aplikasi	B-ASPECT
+aplikasi	O
 g	O
 jelas	O
 pake	O
@@ -25839,7 +26019,7 @@ baik	O
 bagus	O
 
 bagus	O
-layan	O
+layan	B-ASPECT
 pokok	O
 bintang	O
 
@@ -26136,10 +26316,10 @@ jls	O
 hp	O
 curi	O
 oknum	O
-grab	O
+grab	B-ORG
 ingin	O
 oknum	O
-grab	B-ORG
+grab	O
 kembali	O
 hp	O
 merek	O
@@ -26160,7 +26340,7 @@ males	O
 
 kotak	O
 masuk	O
-aplikasi	O
+aplikasi	B-ASPECT
 grab	B-ORG
 ngeleg	O
 
@@ -26189,7 +26369,7 @@ mantap	O
 jiwa	O
 pelayananya	O
 
-aplikasi	O
+aplikasi	B-ASPECT
 aneh	O
 map	O
 aneh	O
@@ -26625,7 +26805,7 @@ bagus	O
 beberapa	O
 kali	O
 ketemu	O
-driver	O
+driver	B-ASPECT
 minta	O
 kasih	O
 bintang	O
@@ -26925,7 +27105,7 @@ maaf	O
 kok	O
 lama	O
 pakai	O
-aplikasi	O
+aplikasi	B-ASPECT
 grab	B-ORG
 jarang	O
 sekali	O
@@ -27016,7 +27196,7 @@ tidak	O
 akurat	O
 jdi	O
 ngrepotin	O
-driver	O
+driver	B-ASPECT
 
 alhamdulillah	O
 kemudi	O
@@ -27082,7 +27262,7 @@ bangor	O
 sampe	O
 lapar	O
 
-layan	O
+layan	B-ASPECT
 baik	O
 
 waktu	O
@@ -27104,7 +27284,7 @@ tika	O
 jalan	O
 tiba	O
 telpon	O
-driver	B-ASPECT
+driver	O
 kena	O
 charge	O
 cancel	O
@@ -27261,7 +27441,7 @@ pakai	O
 harga	B-ASPECT
 murah	O
 logika	O
-harga	O
+harga	B-ASPECT
 murah	O
 grab	B-ORG
 bike	O
@@ -27559,7 +27739,7 @@ baik	O
 
 keren	O
 
-aplikasi	B-ASPECT
+aplikasi	O
 usinya	O
 driver	B-ASPECT
 problematik	O
@@ -28010,7 +28190,7 @@ bagus	O
 mantap	O
 
 order	O
-grabcar	O
+grabcar	B-PROD
 sekian	O
 banyak	O
 driver	B-ASPECT
@@ -28319,7 +28499,7 @@ tunggu	O
 ngaret	O
 sulit	O
 rekomendasi	O
-aplikasi	O
+aplikasi	B-ASPECT
 grab	B-ORG
 
 ramah	O
@@ -28496,7 +28676,7 @@ apk	O
 perhati	O
 wahai	O
 aplikasi	B-ASPECT
-grab	B-ORG
+grab	O
 mungkin	O
 guna	O
 setia	O
@@ -29126,7 +29306,7 @@ driver	B-ASPECT
 grabcarnya	O
 mantap	O
 
-layan	O
+layan	B-ASPECT
 bagus	O
 
 moga	O
@@ -29243,7 +29423,7 @@ mantap	O
 tidak	O
 buka	O
 
-aplikasi	B-ASPECT
+aplikasi	O
 sangat	O
 bantu	O
 
@@ -29483,7 +29663,7 @@ banget	O
 
 gimana	O
 sih	O
-aplikasi	B-ASPECT
+aplikasi	O
 install	O
 malah	O
 tidak	O
@@ -29600,7 +29780,7 @@ bagus	O
 pas	O
 buka	O
 apk	O
-grab	O
+grab	B-ORG
 displaynya	O
 ca	O
 grabgood	O
@@ -30552,7 +30732,7 @@ bagi	O
 konfirmasi	O
 gilir	O
 dapet	O
-driver	O
+driver	B-ASPECT
 cuma	O
 lg	O
 tidak	O
@@ -30765,7 +30945,7 @@ suka	O
 dngan	O
 aplikasih	O
 
-layan	O
+layan	B-ASPECT
 baik	O
 ramah	O
 
@@ -30774,7 +30954,7 @@ banyak	O
 sangat	O
 bantu	O
 
-aplikasi	O
+aplikasi	B-ASPECT
 tidak	O
 sedia	O
 fitur	O
@@ -30917,7 +31097,7 @@ ladies	O
 jangan	O
 percaya	O
 guna	O
-grab	O
+grab	B-ORG
 hilang	O
 utama	O
 daerah	O
@@ -31058,7 +31238,7 @@ sistem	O
 pesan	O
 tumpang	O
 tunggu	O
-driver	B-ASPECT
+driver	O
 cukup	O
 lama	O
 tunggu	O
@@ -31138,7 +31318,7 @@ bantu	O
 jalan	O
 
 woii	O
-grab	B-ORG
+grab	O
 dong	O
 titik	O
 jemput	O
@@ -31161,7 +31341,7 @@ tolongg	O
 ganti	O
 
 pokok	O
-grabfood	O
+grabfood	B-PROD
 mantaf	O
 lebih	O
 cepat	O
@@ -31444,7 +31624,7 @@ apk	O
 belum	O
 jalan	O
 kasihan	O
-driver	O
+driver	B-ASPECT
 kalau	O
 cancel	O
 cancel	O
@@ -31694,7 +31874,7 @@ sewa	O
 supir	O
 grab	B-ORG
 buat	O
-harga	O
+harga	B-ASPECT
 tarif	O
 ank	O
 sklh	O
@@ -31832,7 +32012,7 @@ of	O
 it	O
 update	O
 your	O
-grab	B-ORG
+grab	O
 to	O
 to	O
 get	O
@@ -31972,7 +32152,7 @@ standar	O
 suka	O
 banget	O
 sama	O
-grab	O
+grab	B-ORG
 sangat	O
 mudah	O
 segala	O
@@ -32447,7 +32627,7 @@ driver	B-ASPECT
 mudah	O
 overall	O
 semua	O
-driver	B-ASPECT
+driver	O
 baik	O
 suka	O
 semua	O
@@ -32565,7 +32745,7 @@ minta	O
 skrg	O
 kok	O
 map	O
-grab	O
+grab	B-ORG
 suka	O
 muter	O
 in	O
@@ -32831,7 +33011,7 @@ abai	O
 grab	B-ORG
 cukup	O
 pakai	O
-aplikasi	B-ASPECT
+aplikasi	O
 inj	O
 
 top	O
@@ -32846,7 +33026,7 @@ oke	O
 ramah	O
 
 parah	O
-aplikasi	B-ASPECT
+aplikasi	O
 lot	O
 kalau	O
 buka	O
@@ -33184,7 +33364,7 @@ bayar	O
 anggap	O
 barang	O
 tidak	O
-harga	B-ASPECT
+harga	O
 padahal	O
 jelas	O
 barang	O
@@ -33276,7 +33456,7 @@ titik	O
 lokasi	O
 nyata	O
 tawar	O
-harga	B-ASPECT
+harga	O
 alas	O
 malam	O
 padahal	O
@@ -33450,7 +33630,7 @@ jauh	O
 cepet	O
 banget	O
 panas	O
-layan	O
+layan	B-ASPECT
 ramah	O
 asik	O
 pokoknyaa	O
@@ -33571,7 +33751,7 @@ pakai	O
 
 percuma	O
 buat	O
-aplikasi	B-ASPECT
+aplikasi	O
 kalau	O
 udah	O
 bagi	O
@@ -33583,7 +33763,7 @@ trima	O
 pesan	O
 udah	O
 naikin	O
-harga	O
+harga	B-ASPECT
 tidak	O
 terima	O
 
@@ -34059,7 +34239,7 @@ minta	O
 tambah	O
 fitur	O
 report	O
-driver	O
+driver	B-ASPECT
 suka	O
 cancel	O
 order	O
@@ -34363,7 +34543,7 @@ alamat	O
 tlg	O
 baik	O
 interface	O
-aplikasi	B-ASPECT
+aplikasi	O
 
 apik	O
 iki	O
@@ -34694,7 +34874,7 @@ miskin	O
 indonesia	O
 
 bagus	O
-aman	B-ASPECT
+aman	O
 
 baik	O
 
@@ -34935,7 +35115,7 @@ apa	O
 cancel	O
 tidak	O
 kasi	O
-driver	O
+driver	B-ASPECT
 lho	O
 lah	O
 benah	O
@@ -34981,7 +35161,7 @@ at	O
 least	O
 murah	O
 si	O
-harga	O
+harga	B-ASPECT
 
 baru	O
 lokasi	O
@@ -35011,12 +35191,12 @@ dpt	O
 baca	O
 selesai	O
 order	O
-aplikasi	B-ASPECT
+aplikasi	O
 muter	O
 mohon	O
 bantu	O
 paman	O
-grab	O
+grab	B-ORG
 cara	O
 kerja	O
 tidak	O
@@ -35066,7 +35246,7 @@ butuh	O
 kerja	O
 untung	O
 aplikasi	B-ASPECT
-grab	O
+grab	B-ORG
 buat	O
 cari	O
 cuan	O
@@ -35218,7 +35398,7 @@ wow	O
 
 bnyak	O
 banget	O
-driver	B-ASPECT
+driver	O
 dapet	O
 order	O
 gabung	O
@@ -35266,7 +35446,7 @@ baik	O
 
 pihak	O
 grab	B-ORG
-driver	B-ASPECT
+driver	O
 nakal	O
 sengaja	O
 tidak	O
@@ -35315,7 +35495,7 @@ cukup	O
 bantu	O
 
 nyaman	O
-aman	B-ASPECT
+aman	O
 sama	O
 sopir	O
 
@@ -35396,7 +35576,7 @@ rb	O
 hadehhhh	O
 aplikasi	B-ASPECT
 kaya	O
-shopee	O
+shopee	B-ORG
 food	O
 gojek	B-ORG
 aja	O
@@ -35419,7 +35599,7 @@ make	O
 voucher	O
 marketing	O
 banget	O
-grab	B-ORG
+grab	O
 mah	O
 misal	O
 voucher	O
@@ -35459,7 +35639,7 @@ much	O
 baik	O
 ramah	O
 
-aplikasi	B-ASPECT
+aplikasi	O
 bagus	O
 layan	B-ASPECT
 bagus	O
@@ -35487,7 +35667,7 @@ kecewa	O
 aplikasi	B-ASPECT
 greb	O
 
-layan	B-ASPECT
+layan	O
 baik	O
 cepat	O
 
@@ -35603,7 +35783,7 @@ lebih	O
 buat	O
 mobil	O
 kotor	O
-driver	B-ASPECT
+driver	O
 melotot	O
 cenderung	O
 marah	O
@@ -35752,7 +35932,7 @@ mantap	O
 mau	O
 coba	O
 pake	O
-grab	B-ORG
+grab	O
 
 baik	O
 
@@ -36031,7 +36211,7 @@ baik	O
 
 oke	O
 
-grab	O
+grab	B-ORG
 malaysia	O
 tu	O
 jangan	O
@@ -36045,7 +36225,7 @@ kereta	O
 layak	O
 lah	O
 masuk	O
-grab	B-ORG
+grab	O
 tu	O
 
 mantap	O
@@ -36061,7 +36241,7 @@ baik	O
 utama	O
 buat	O
 layan	B-ASPECT
-grab	O
+grab	B-ORG
 food	O
 sukses	O
 terus	O
@@ -36963,7 +37143,7 @@ potong	O
 bank	O
 belum	O
 masuk	O
-aplikasi	O
+aplikasi	B-ASPECT
 grab	B-ORG
 supirnya	O
 tunia	O
@@ -37192,7 +37372,7 @@ bagus	O
 senang	O
 sekali	O
 layan	B-ASPECT
-grab	B-ORG
+grab	O
 
 driver	B-ASPECT
 baik	O
@@ -37274,7 +37454,7 @@ kemaren	O
 sodara	O
 gw	O
 sen	O
-grab	B-ORG
+grab	O
 car	O
 pas	O
 sampe	O
@@ -37307,7 +37487,7 @@ sampe	O
 tuju	O
 
 muantap	O
-layan	O
+layan	B-ASPECT
 
 driver	B-ASPECT
 nama	O
@@ -37469,7 +37649,7 @@ ramah	O
 pokok	O
 mantap	O
 layan	B-ASPECT
-grab	B-ORG
+grab	O
 
 sopan	O
 
@@ -37669,7 +37849,7 @@ sampe	O
 ribu	O
 mending	O
 pake	O
-aplikasi	O
+aplikasi	B-ASPECT
 aja	O
 
 sangat	O
@@ -37729,7 +37909,7 @@ arah	O
 sama	O
 sperti	O
 awal	O
-harga	B-ASPECT
+harga	O
 tiba	O
 naik	O
 jadi	O
@@ -37839,7 +38019,7 @@ sangat	O
 bantu	O
 
 cepat	O
-aman	B-ASPECT
+aman	O
 
 puas	O
 
@@ -38024,7 +38204,7 @@ aja	O
 dah	O
 grab	B-ORG
 kemarin	O
-harga	O
+harga	B-ASPECT
 k	O
 sekarang	O
 kok	O
@@ -38132,7 +38312,7 @@ pernah	O
 pake	O
 hari	O
 pake	O
-grab	O
+grab	B-ORG
 dapet	O
 alam	O
 kurang	O
@@ -38227,303 +38407,3 @@ grapmaps	O
 sering	O
 salah	O
 alamat	O
-
-apaa	O
-coba	O
-udah	O
-nungguin	O
-lama	O
-malah	O
-pda	O
-cancel	O
-tidak	O
-hargain	O
-waktu	O
-org	O
-aja	O
-sampe	O
-x	O
-turut	O
-turut	O
-tiap	O
-nyari	O
-nemunya	O
-jauh	O
-pdhal	O
-deket	O
-jiga	O
-bnyak	O
-
-ramah	O
-
-semua	O
-bagus	O
-
-tahan	O
-layan	B-ASPECT
-baik	O
-semua	O
-guna	O
-
-asli	O
-baguss	O
-baguss	O
-bangett	O
-aplikasi	O
-favorit	O
-gue	O
-tadi	O
-baru	O
-aja	O
-gue	O
-mesen	O
-grabcar	B-PROD
-kan	O
-nah	O
-jalan	O
-map	O
-puter	O
-puterin	O
-tidak	O
-jelas	O
-banget	O
-asli	O
-ampe	O
-hampir	O
-celaka	O
-respect	O
-banget	O
-sama	O
-driver	B-ASPECT
-gigih	O
-udah	O
-sempet	O
-tabrak	O
-batu	O
-gede	O
-tidak	O
-marah	O
-gasuka	O
-sama	O
-arah	O
-map	O
-pdhl	O
-pas	O
-gua	O
-liat	O
-google	O
-map	O
-lebih	O
-cepet	O
-lebih	O
-jelas	O
-pas	O
-grab	B-ORG
-map	O
-malah	O
-tidak	O
-jelas	O
-kaya	O
-gtu	O
-depan	O
-benerin	O
-
-mls	O
-tinggal	O
-sen	O
-makan	O
-dn	O
-muda	O
-mahal	O
-
-grab	B-ORG
-tambah	O
-jelek	O
-x	O
-batal	O
-tidak	O
-jelas	O
-
-mantapp	O
-
-ramah	O
-
-bagus	O
-cepat	O
-tepat	O
-
-cari	O
-grabcar	B-PROD
-tidak	O
-pernah	O
-dapet	O
-susah	O
-dapet	O
-kalau	O
-rumah	O
-harga	B-ASPECT
-murah	O
-nyampe	O
-paling	O
-mahal	O
-tidak	O
-dapet	O
-
-nice	O
-
-baik	O
-
-guna	O
-hemat	O
-beri	O
-beberapa	O
-opsi	O
-lalu	O
-pilih	O
-dekat	O
-contoh	O
-menit	O
-trnyata	O
-aktual	O
-menit	O
-aplikasi	B-ASPECT
-tidak	O
-jujur	O
-akurat	O
-
-banyak	O
-iklan	O
-
-kecewa	O
-sama	O
-layan	B-ASPECT
-cs	O
-masalah	O
-aplikasi	B-ASPECT
-kasih	O
-saran	O
-tidak	O
-bener	O
-mana	O
-lama	O
-tanggap	O
-cs	O
-udah	O
-gitu	O
-makin	O
-hari	O
-makin	O
-mahal	O
-aja	O
-grab	B-ORG
-mending	O
-pindah	O
-belah	O
-
-hemm	O
-aneh	O
-mau	O
-sen	O
-makan	O
-lokasi	O
-tidak	O
-kedetect	O
-sekarang	O
-lokasi	O
-kamu	O
-jauh	O
-padahal	O
-bukan	O
-pelosok	O
-kalau	O
-mesen	O
-grab	B-ORG
-motor	O
-selalu	O
-sini	O
-banyak	O
-ojol	O
-bukan	O
-daerah	O
-kampung	O
-pelosok	O
-banyak	O
-restoran	O
-dekat	O
-aneh	O
-
-bagus	O
-
-propfesional	O
-
-kenpa	O
-ongkirnya	O
-makin	O
-mahal	O
-biasa	O
-sen	O
-makan	O
-pilih	O
-makan	O
-sendiri	O
-cuma	O
-k	O
-cuma	O
-k	O
-ongkirnya	O
-sekarang	O
-malah	O
-ubah	O
-pilih	O
-makan	O
-sendiri	O
-jadi	O
-k	O
-ongkirnya	O
-jadi	O
-k	O
-padahal	O
-awal	O
-pilih	O
-makan	O
-sendiri	O
-ntah	O
-k	O
-kalau	O
-tidak	O
-k	O
-ongkirnya	O
-tetep	O
-k	O
-tpi	O
-kok	O
-makin	O
-naik	O
-aja	O
-tpi	O
-tidak	O
-mslh	O
-ongkir	O
-k	O
-lah	O
-udah	O
-ubah	O
-ongkirnya	O
-jadi	O
-mahal	O
-kalau	O
-sen	O
-makan	O
-tidak	O
-difitur	O
-makan	O
-sendiri	O
-ongkirnya	O
-lipat	O
-harga	B-ASPECT
-makan	O
-
-thank	O
-you	O
-ferry	O
-much	O

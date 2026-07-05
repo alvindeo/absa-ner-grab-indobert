@@ -1,4 +1,24 @@
 text,aspect,sentiment,score
+bintang dulu jadi tanya aplikasi pas baru mau download tulis aplikasi rupa mungkin tidak fungsi perangkat mohon cek yah,aplikasi,netral,3
+grab knp jahat sama cewe aku jangan lah kayak gitu,lainnya,negatif,1
+babi aplikasi grab merchant mu susah dipake,aplikasi,negatif,1
+bagus aplikasi bantu semua orng,aplikasi,positif,5
+kemudi apk sering tidak gerak tidak respon dichat,layanan,netral,3
+nice,lainnya,positif,5
+mantabbbb,lainnya,positif,5
+bagus,lainnya,positif,5
+overall bagus cuman kalau daerah pinggir suka nge lag apknya,aplikasi,positif,3
+sgt cepat antar sukses selalu grab,lainnya,positif,5
+awal bakal menit lama lama jadi menit tanya tidak jawab jawab ngeselin tau,lainnya,negatif,1
+tetbaik,lainnya,positif,5
+guna antar jemput online,lainnya,positif,5
+masa aku sen gojek mapsnya tidak liat antara,lainnya,netral,3
+grab tipu driver presiden ri harus bagi driver hitung tarif dasar minimum pernah tetap perintah rp jadi order jarak minimum km bawah nominal bagi driver rp rp bukan rp sekarang arti kali potong potong rp potong rp per order potong order hemat reaksi keras driver perintah,harga,negatif,1
+bagus tidak usah cape pergi tempat makan langsung grab aja,lainnya,positif,4
+mantap,lainnya,positif,5
+okay,lainnya,positif,5
+pelit promo banget beda belah,lainnya,negatif,1
+mntap,lainnya,positif,5
 aplikasi banyak bantu cs cepat tanggap sangat ramah,layanan,positif,5
 nyaman jalan,keamanan,positif,5
 solusi baik,lainnya,positif,5
@@ -10,7 +30,6 @@ kecewa banget pokok,lainnya,negatif,1
 good apk,aplikasi,positif,5
 sangat bantu,lainnya,positif,4
 antar lebih cepat jam tentu,lainnya,positif,5
-bagus,lainnya,positif,5
 layan cepat,layanan,positif,5
 sangat sangat baik,lainnya,positif,5
 urusin mitra mitra lo bener woi sekarang nyari driver susah sekali dapet udah nunggu lama driver enak cancel lo pikir user lo semua anggur tidak peduli ama waktu kalau tidak jaga hubung mitra user eos aja sono,driver,negatif,2
@@ -54,20 +73,17 @@ aplikasi lelet lama order gabung,aplikasi,negatif,1
 bike hemat lumayan bagus cuma ribu hari,lainnya,positif,5
 sangat baik,lainnya,positif,5
 cepat ramah sopan,lainnya,positif,5
-mantap,lainnya,positif,5
 grab sangat bantu jalan masyarakat,lainnya,positif,5
 kurir busuk gw mesan paket instan lewat shopee tidak pick up kurir ngambil eh gjd ngambil eh gjd niat kerja tidak sih gw nunggu jam siang sampe jam tidak dipick up nih gw kasih plat nomor mau tidak,lainnya,negatif,1
 nga sih kalau food batesin kadang orang nganter titik kalau dapet akhir udah keburu nga enak makan biar dapet anget malah dapet adem hampir jam kadang baru sampe haduh haduh prioritas kadang sama,lainnya,negatif,1
 ko dominos pizza papi uno,lainnya,positif,5
 aplikasi jelek sepanjnag masa,aplikasi,negatif,1
 grab andal transportku,lainnya,positif,5
-nice,lainnya,positif,5
 suka banget naik grab nyaman sehat terus buat bg supir,keamanan,positif,5
 apk jelek busuk mahal tergajelas driver tidak sopan semua buruk,aplikasi,negatif,1
 grab sekarang kejam kasihan sama driver sejak potong bukan tambah hasil malah rangin dapat sungguh biadab,driver,negatif,1
 jujur kecewa banget kali dapet driver jutek banget bahkan sampe blg harus tidak ambil jauh gausa jadi driver lah pak kalau gitu naik grab bayar tidak gratis tidak ramah samsek layan hampir semua driver mobil respon ketus padahal sbg langgan usaha ngehormatin tlg lah baik layan,layanan,positif,1
 banyak bug,lainnya,negatif,1
-mntap,lainnya,positif,5
 tiba banget tunggak nyampe rb grab car liat riwayat tidak jalan aneh banget mau dipake app bayar dulu tunggak dong dibenerin,aplikasi,negatif,1
 bagus aman,keamanan,positif,5
 sekarang bayar grab jadi mahal kaya kemarin sekarang harga naik,harga,negatif,2
@@ -395,7 +411,6 @@ sgt buruk x mau pesan mkn aja ribet banget menjengkelknn pesan seblak nyata rest
 jelas tidak ribet jemput antar sesuai kan,lainnya,positif,4
 sopir ramah supel,lainnya,positif,5
 grab sekarang susah guna internet lancar sinyal kenceng eror terus terang internet lambat makin lama makin males pakai aplikasi,aplikasi,negatif,1
-okay,lainnya,positif,5
 udahh nunggu hampir menit driver enak jidat cancel,driver,negatif,1
 aplikasi bagus banyak promo sayang driver tidak bener,aplikasi,positif,2
 banyak update,lainnya,netral,3
@@ -3173,7 +3188,6 @@ alhamdulillah amanah ramah,keamanan,positif,5
 terima kasih moga lancar rizkinya,lainnya,positif,5
 fungsional,lainnya,positif,5
 parbaharui makin bagus kok makin begini,lainnya,positif,1
-tetbaik,lainnya,positif,5
 bantu banget apk,aplikasi,positif,5
 istirmewaaaa,lainnya,positif,5
 service bagus,lainnya,positif,5
@@ -3248,17 +3262,3 @@ gimana si gofod tidak cancel baru pencet pdhal,lainnya,negatif,1
 pas mau sen makan gas asa ovo terus lah ovo ribu eh pas klik pesan malah error invalid arguments,lainnya,negatif,3
 biasa,lainnya,netral,3
 grabmaps tidak sesuai google maps grabmaps perlu update grapmaps sering salah alamat,lainnya,negatif,1
-apaa coba udah nungguin lama malah pda cancel tidak hargain waktu org aja sampe x turut turut tiap nyari nemunya jauh pdhal deket jiga bnyak,harga,negatif,1
-semua bagus,lainnya,positif,5
-tahan layan baik semua guna,layanan,positif,5
-asli baguss baguss bangett aplikasi favorit gue tadi baru aja gue mesen grabcar kan nah jalan map puter puterin tidak jelas banget asli ampe hampir celaka respect banget sama driver gigih udah sempet tabrak batu gede tidak marah gasuka sama arah map pdhl pas gua liat google map lebih cepet lebih jelas pas grab map malah tidak jelas kaya gtu depan benerin,aplikasi,positif,2
-mls tinggal sen makan dn muda mahal,lainnya,negatif,5
-grab tambah jelek x batal tidak jelas,lainnya,negatif,1
-bagus cepat tepat,lainnya,positif,5
-cari grabcar tidak pernah dapet susah dapet kalau rumah harga murah nyampe paling mahal tidak dapet,harga,negatif,2
-guna hemat beri beberapa opsi lalu pilih dekat contoh menit trnyata aktual menit aplikasi tidak jujur akurat,aplikasi,negatif,1
-kecewa sama layan cs masalah aplikasi kasih saran tidak bener mana lama tanggap cs udah gitu makin hari makin mahal aja grab mending pindah belah,layanan,negatif,1
-hemm aneh mau sen makan lokasi tidak kedetect sekarang lokasi kamu jauh padahal bukan pelosok kalau mesen grab motor selalu sini banyak ojol bukan daerah kampung pelosok banyak restoran dekat aneh,lainnya,positif,4
-propfesional,lainnya,positif,5
-kenpa ongkirnya makin mahal biasa sen makan pilih makan sendiri cuma k cuma k ongkirnya sekarang malah ubah pilih makan sendiri jadi k ongkirnya jadi k padahal awal pilih makan sendiri ntah k kalau tidak k ongkirnya tetep k tpi kok makin naik aja tpi tidak mslh ongkir k lah udah ubah ongkirnya jadi mahal kalau sen makan tidak difitur makan sendiri ongkirnya lipat harga makan,harga,negatif,1
-thank you ferry much,lainnya,positif,5
